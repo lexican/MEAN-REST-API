@@ -1,7 +1,7 @@
-NodeJS express MongoDb example
+NodeJS, express, MongoDb and Angular(MEAN)
 ==================================
 
-This is a simple experimental example of how to match MongoDb, express, angular and NodeJs(MEAN) for the implementation and consumpion of a Rest API.
+This is a simple experimental example of how to match MongoDb, express, angular and NodeJs(MEAN) for the implementation and consumption of a Rest API.
 
 - This project requires a version of NodeJS with support for async-await
 
